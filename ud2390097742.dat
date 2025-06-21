@@ -1,0 +1,231 @@
+{
+   "ProfileVersion" : 1,
+   "Synchronized" : {
+      "personaProfile" : {
+         "offlineUpdate" : true,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "hasSeenPersonaClassicSkinDifferencesPrompt" : false,
+                  "id" : "c18e65aa-7b21-4637-9b63-8ad63622ef01_Noor",
+                  "isPlatformLocked" : false,
+                  "isTitleLocked" : false,
+                  "lastUsedPersonaSlot" : "persona_profile_persona3",
+                  "packId" : "c18e65aa-7b21-4637-9b63-8ad63622ef01",
+                  "stopShowingSkinChangePrompt" : true,
+                  "typeId" : "skin"
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      },
+      "personaProfile1" : {
+         "offlineUpdate" : false,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "arm" : "wide",
+                  "cs_arm" : "slim",
+                  "skcol" : "#0",
+                  "skin" : false
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      },
+      "personaProfile2" : {
+         "offlineUpdate" : true,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "arm" : "wide",
+                  "cs_arm" : "slim",
+                  "skcol" : "#fff1936e",
+                  "skin" : false
+               },
+               {
+                  "id" : "8f96d1f8-e9bb-40d2-acc8-eb79746c5d7c/d"
+               },
+               {
+                  "id" : "1042557f-d1f9-44e3-ba78-f404e8fb7363/d"
+               },
+               {
+                  "col" : [ "#0", "#0", "#ff774320", "#0" ],
+                  "id" : "83c940ce-d7b8-4603-8d73-c1234e322cce/d"
+               },
+               {
+                  "id" : "e86ab12f-d79c-6e47-b3af-19a3c965505a/d"
+               },
+               {
+                  "id" : "a1f26368-ebfe-843a-e6ff-f2dc724108ec/d"
+               },
+               {
+                  "id" : "34524691-ff49-da97-8ae0-d07ef8a0c118/d"
+               },
+               {
+                  "col" : [ "#ff2f2f2f", "#0", "#0", "#0" ],
+                  "id" : "36f3af09-1871-f074-148a-9f748ba3ca42/d"
+               },
+               {
+                  "col" : [ "#ff141519", "#ff2f2f2f", "#ffe9ecec", "#0" ],
+                  "id" : "a0f263b3-e093-4c85-aadb-3759417898ff/d"
+               },
+               {
+                  "id" : "33c7a041-46be-73ad-55aa-7e1b18563364/d"
+               },
+               {
+                  "id" : "17428c4c-3813-4ea1-b3a9-d6a32f83afca/de"
+               },
+               {
+                  "id" : "ce5c0300-7f03-455d-aaf1-352e4927b54d/de"
+               },
+               {
+                  "id" : "9a469a61-c83b-4ba9-b507-bdbe64430582/de"
+               },
+               {
+                  "id" : "4c8ae710-df2e-47cd-814d-cc7bf21a3d67/de"
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      },
+      "personaProfile3" : {
+         "offlineUpdate" : true,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "arm" : "wide",
+                  "cs_arm" : "slim",
+                  "skcol" : "#ffb9674a",
+                  "skin" : false
+               },
+               {
+                  "id" : "8f96d1f8-e9bb-40d2-acc8-eb79746c5d7c/d"
+               },
+               {
+                  "id" : "1042557f-d1f9-44e3-ba78-f404e8fb7363/d"
+               },
+               {
+                  "col" : [ "#ff8a6294", "#0", "#0", "#0" ],
+                  "id" : "491dfbd8-fc6d-2f9d-8983-70bcbb626754/d"
+               },
+               {
+                  "col" : [ "#ff692b34", "#ff8a6294", "#ffe9ecec", "#0" ],
+                  "id" : "a0f263b3-e093-4c85-aadb-3759417898ff/d"
+               },
+               {
+                  "col" : [ "#0", "#0", "#ff774320", "#0" ],
+                  "id" : "83c940ce-d7b8-4603-8d73-c1234e322cce/d"
+               },
+               {
+                  "id" : "74c2d026-33f0-f0b1-3f4f-670cb1fe6515/d"
+               },
+               {
+                  "id" : "c20ee35a-8013-0057-692f-35ec4d77d6ed/d"
+               },
+               {
+                  "id" : "d3777d81-8b2b-d348-daed-710c15805976/d"
+               },
+               {
+                  "id" : "ba5b65fc-b5ae-1c71-5a9a-7137425f9dda/d"
+               },
+               {
+                  "id" : "7e45f152-4641-1041-2194-1522c7ad35f2/d"
+               },
+               {
+                  "id" : "6d4faba3-c8e0-6260-7f88-2bfcb4a0037a/d"
+               },
+               {
+                  "id" : "829e70a1-05ea-140e-c42e-3ef9d5894ffe/d"
+               },
+               {
+                  "id" : "c18e65aa-7b21-4637-9b63-8ad63622ef01.Noor"
+               },
+               {
+                  "id" : "17428c4c-3813-4ea1-b3a9-d6a32f83afca/de"
+               },
+               {
+                  "id" : "ce5c0300-7f03-455d-aaf1-352e4927b54d/de"
+               },
+               {
+                  "id" : "9a469a61-c83b-4ba9-b507-bdbe64430582/de"
+               },
+               {
+                  "id" : "4c8ae710-df2e-47cd-814d-cc7bf21a3d67/de"
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      },
+      "personaProfile4" : {
+         "offlineUpdate" : true,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "arm" : "wide",
+                  "cs_arm" : "slim",
+                  "skcol" : "#fff1936e",
+                  "skin" : false
+               },
+               {
+                  "id" : "8f96d1f8-e9bb-40d2-acc8-eb79746c5d7c/d"
+               },
+               {
+                  "id" : "1042557f-d1f9-44e3-ba78-f404e8fb7363/d"
+               },
+               {
+                  "col" : [ "#0", "#0", "#ff774320", "#0" ],
+                  "id" : "83c940ce-d7b8-4603-8d73-c1234e322cce/d"
+               },
+               {
+                  "id" : "e86ab12f-d79c-6e47-b3af-19a3c965505a/d"
+               },
+               {
+                  "id" : "a1f26368-ebfe-843a-e6ff-f2dc724108ec/d"
+               },
+               {
+                  "id" : "34524691-ff49-da97-8ae0-d07ef8a0c118/d"
+               },
+               {
+                  "col" : [ "#ff2f2f2f", "#0", "#0", "#0" ],
+                  "id" : "36f3af09-1871-f074-148a-9f748ba3ca42/d"
+               },
+               {
+                  "col" : [ "#ff141519", "#ff2f2f2f", "#ffe9ecec", "#0" ],
+                  "id" : "a0f263b3-e093-4c85-aadb-3759417898ff/d"
+               },
+               {
+                  "id" : "33c7a041-46be-73ad-55aa-7e1b18563364/d"
+               },
+               {
+                  "id" : "17428c4c-3813-4ea1-b3a9-d6a32f83afca/de"
+               },
+               {
+                  "id" : "ce5c0300-7f03-455d-aaf1-352e4927b54d/de"
+               },
+               {
+                  "id" : "9a469a61-c83b-4ba9-b507-bdbe64430582/de"
+               },
+               {
+                  "id" : "4c8ae710-df2e-47cd-814d-cc7bf21a3d67/de"
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      },
+      "personaProfile5" : {
+         "offlineUpdate" : false,
+         "personaCollection" : {
+            "universalApp" : [
+               {
+                  "arm" : "wide",
+                  "cs_arm" : "slim",
+                  "skcol" : "#0",
+                  "skin" : false
+               }
+            ]
+         },
+         "version" : "0.0.0"
+      }
+   }
+}
